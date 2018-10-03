@@ -1,8 +1,10 @@
 # ProgrammaOpeNoise
 
-Presentazione a cura di Carlo Zambaldo (carlo.zambaldo@gmail.com)
-Liceo Girolamo Fracastoro, Verona
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+### Descrizione generale del programma ###
+Presentazione HTML del progetto OpeNoise e programma di elaborazione dei file.
+
+### Istruzioni per la configurazione ###
 
 Per aprire la presentazione in HTML:
 	HTML pres > index.html
@@ -20,11 +22,38 @@ Il link (bottone "calcola risultati") che manda dalla presentazione HTML al prog
 Per eventuali dubbi o problemi contattare carlo.zambaldo@gmail.com
 
 
+### Guida all'installazione ###
+
+
+### Un elenco dei file contenuti nel pacchetto ###
+
+
+### Informazioni riguardo al tipo di licenza e il copyright ###
+Il programma è OpenSource. Modifiche e correzioni di bugs sono ben accette.
+
+### Contatti del distributore e del programmatore ###
+Carlo Zambaldo (carlo.zambaldo@gmail.com)
+Presentazione a cura di Carlo Zambaldo (carlo.zambaldo@gmail.com)
+Liceo Girolamo Fracastoro, Verona
+
+### Eventuali bug (conosciuti) ###
+
+
+### Risoluzione di problemi ###
+
+
+### Ringraziamenti ###
+
+
+### Un changelog ###
+
+
+
 
 
 
 --------------
- Note legali - Diritto d’autore
+# Note legali - Diritto d’autore
 Tutti i marchi, registrati e non, di prodotti o servizi, i logotipi, i banner, le rubriche, i domini e ogni altro segno distintivo
 che compaiono sulla presentazione HTML sono di proprietà di Arpa Veneto (sito web www.arpa.veneto.it),
 e sono protetti ai sensi delle normative sul diritto d'autore, sui brevetti e su quelle relative alla proprietà intellettuale,
