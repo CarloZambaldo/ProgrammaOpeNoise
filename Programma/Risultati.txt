@@ -1,0 +1,255 @@
+FILE No 1: 'FILES/A1_(01)_PiazzaBra.txt'. I valori:
+Media Rumore: 60.2333 dB
+Varianza: 0.469709
+Qualità della strada: Buona
+
+FILE No 2: 'FILES/A1_(02)_CorsoPortaNuova.txt'. I valori:
+Media Rumore: 62.276 dB
+Varianza: 0.171159
+Qualità della strada: Scarsa
+
+FILE No 3: 'FILES/A1_(03)_CirconvallazioneRaggioDiSole.txt'. I valori:
+Media Rumore: 64.5715 dB
+Varianza: 0.559197
+Qualità della strada: Scarsa
+
+FILE No 4: 'FILES/A1_(04)_ViaFrancoFaccio.txt'. I valori:
+Media Rumore: 70.8837 dB
+Varianza: 0.300448
+Qualità della strada: Scarsa
+
+FILE No 5: 'FILES/A1_(05)_ViaDellAutiere.txt'. I valori:
+Media Rumore: 66.7739 dB
+Varianza: 0.141571
+Qualità della strada: Scarsa
+
+FILE No 6: 'FILES/A1_(06)_ViaCarloPoma.txt'. I valori:
+Media Rumore: 52.3523 dB
+Varianza: 0.311069
+Qualità della strada: Buona
+
+FILE No 7: 'FILES/B1_(07)_ViaMarcantonioBentegodi.txt'. I valori:
+Media Rumore: 54.145 dB
+Varianza: 0.297437
+Qualità della strada: Buona
+
+FILE No 8: 'FILES/B1_(08)_ViaCesareBattisti.txt'. I valori:
+Media Rumore: 55.1993 dB
+Varianza: 0.325461
+Qualità della strada: Buona
+
+FILE No 9: 'FILES/B1_(09)_ViaSSTrinita.txt'. I valori:
+Media Rumore: 59.3099 dB
+Varianza: 0.204256
+Qualità della strada: Buona
+
+FILE No 10: 'FILES/B1_(10)_ViaCarloMontanari.txt'. I valori:
+Media Rumore: 60.9391 dB
+Varianza: 0.507729
+Qualità della strada: Buona
+
+FILE No 11: 'FILES/B1_(11)_LungadigeCapuleti.txt'. I valori:
+Media Rumore: 54.4106 dB
+Varianza: 0.0252759
+Qualità della strada: Buona
+
+FILE No 12: 'FILES/B1_(12)_ViaAdigetto.txt'. I valori:
+Media Rumore: 53.2138 dB
+Varianza: 0.187675
+Qualità della strada: Buona
+
+FILE No 13: 'FILES/C1_(13)_ViaDelMinatore.txt'. I valori:
+Media Rumore: 60.202 dB
+Varianza: 0.340825
+Qualità della strada: Buona
+
+FILE No 14: 'FILES/C1_(14)_ViaDelLanciere.txt'. I valori:
+Media Rumore: 52.5428 dB
+Varianza: 0.791416
+Qualità della strada: Buona
+
+FILE No 15: 'FILES/C1_(15)_ViaDelloZappatore.txt'. I valori:
+Media Rumore: 50.9755 dB
+Varianza: 0.498405
+Qualità della strada: Buona
+
+FILE No 16: 'FILES/C1_(16)_ViaDelFante.txt'. I valori:
+Media Rumore: 54.7156 dB
+Varianza: 0.0898964
+Qualità della strada: Buona
+
+FILE No 17: 'FILES/C1_(17)_ViaDelPontiere.txt'. I valori:
+Media Rumore: 56.8388 dB
+Varianza: 0.684478
+Qualità della strada: Buona
+
+FILE No 18: 'FILES/A2_(23)_CorsoPortaNuova.txt'. I valori:
+Media Rumore: 63.4425 dB
+Varianza: 0.481637
+Qualità della strada: Scarsa
+
+FILE No 19: 'FILES/A2_(28)_ViaCarloPoma.txt'. I valori:
+Media Rumore: 49.4684 dB
+Varianza: 0.15966
+Qualità della strada: Molto Buona
+
+FILE No 20: 'FILES/A2_(29)_PiazzaBra.txt'. I valori:
+Media Rumore: 55.0647 dB
+Varianza: 0.0190224
+Qualità della strada: Buona
+
+FILE No 21: 'FILES/A2_(40)_ViaDellAutiere.txt'. I valori:
+Media Rumore: 66.795 dB
+Varianza: 0.349342
+Qualità della strada: Scarsa
+
+FILE No 22: 'FILES/A2_(42)_CirconvallazioneRaggioDiSole.txt'. I valori:
+Media Rumore: 58.0803 dB
+Varianza: 0.300905
+Qualità della strada: Buona
+
+FILE No 23: 'FILES/A2_(43)_ViaFrancoFaccio.txt'. I valori:
+Media Rumore: 69.5784 dB
+Varianza: 0.114927
+Qualità della strada: Scarsa
+
+FILE No 24: 'FILES/B2_(18)_ViaAdigetto.txt'. I valori:
+Media Rumore: 53.8383 dB
+Varianza: 0.10167
+Qualità della strada: Buona
+
+FILE No 25: 'FILES/B2_(24)_ViaCesareBattisti.txt'. I valori:
+Media Rumore: 56.4275 dB
+Varianza: 0.16391
+Qualità della strada: Buona
+
+FILE No 26: 'FILES/B2_(25)_ViaCarloMontanari.txt'. I valori:
+Media Rumore: 63.2878 dB
+Varianza: 0.602221
+Qualità della strada: Scarsa
+
+FILE No 27: 'FILES/B2_(26)_ViaMarcantonioBentegodi.txt'. I valori:
+Media Rumore: 49.085 dB
+Varianza: 0.467687
+Qualità della strada: Molto Buona
+
+FILE No 28: 'FILES/B2_(34)_ViaSSTrinita.txt'. I valori:
+Media Rumore: 57.6742 dB
+Varianza: 0.0782491
+Qualità della strada: Buona
+
+FILE No 29: 'FILES/B2_(38)_LungadigeCapuleti.txt'. I valori:
+Media Rumore: 55.2582 dB
+Varianza: 1.01395
+Qualità della strada: Buona
+
+FILE No 30: 'FILES/C2_(19)_ViaDelPontiere.txt'. I valori:
+Media Rumore: 63.0679 dB
+Varianza: 0.862126
+Qualità della strada: Scarsa
+
+FILE No 31: 'FILES/C2_(20)_ViaDelLanciere.txt'. I valori:
+Media Rumore: 60.2333 dB
+Varianza: 0.156301
+Qualità della strada: Buona
+
+FILE No 32: 'FILES/C2_(21)_ViaDelloZappatore.txt'. I valori:
+Media Rumore: 61.8 dB
+Varianza: 0.145999
+Qualità della strada: Buona
+
+FILE No 33: 'FILES/C2_(22)_ViaDelPontiere.txt'. I valori:
+Media Rumore: 61.8519 dB
+Varianza: 0.108943
+Qualità della strada: Buona
+
+FILE No 34: 'FILES/C2_(27)_ViaDelFante.txt'. I valori:
+Media Rumore: 58.4406 dB
+Varianza: 1.49072
+Qualità della strada: Buona
+
+FILE No 35: 'FILES/A3_(39)_ViaCarloPoma.txt'. I valori:
+Media Rumore: 51.0596 dB
+Varianza: 0.175746
+Qualità della strada: Buona
+
+FILE No 36: 'FILES/A3_(47)_ViaDellAutiere.txt'. I valori:
+Media Rumore: 68.7636 dB
+Varianza: 0.931944
+Qualità della strada: Scarsa
+
+FILE No 37: 'FILES/A3_(48)_CirconvallazioneRaggioDiSole.txt'. I valori:
+Media Rumore: 54.5826 dB
+Varianza: 0.323662
+Qualità della strada: Buona
+
+FILE No 38: 'FILES/A3_(49)_ViaFrancoFaccio.txt'. I valori:
+Media Rumore: 71.9139 dB
+Varianza: 0.245515
+Qualità della strada: Scarsa
+
+FILE No 39: 'FILES/A3_(50)_CorsoPortaNuova.txt'. I valori:
+Media Rumore: 63.0884 dB
+Varianza: 0.248065
+Qualità della strada: Scarsa
+
+FILE No 40: 'FILES/A3_(51)_PiazzaBra.txt'. I valori:
+Media Rumore: 63.927 dB
+Varianza: 0.0995207
+Qualità della strada: Scarsa
+
+FILE No 41: 'FILES/B3_(30)_ViaCarloMontanari.txt'. I valori:
+Media Rumore: 63.5033 dB
+Varianza: 0.519375
+Qualità della strada: Scarsa
+
+FILE No 42: 'FILES/B3_(31)_ViaMarcantonioBentegodi.txt'. I valori:
+Media Rumore: 49.3255 dB
+Varianza: 0.620447
+Qualità della strada: Molto Buona
+
+FILE No 43: 'FILES/B3_(32)_ViaCesareBattisti.txt'. I valori:
+Media Rumore: 56.1105 dB
+Varianza: 0.356564
+Qualità della strada: Buona
+
+FILE No 44: 'FILES/B3_(44)_LungadigeCapuleti.txt'. I valori:
+Media Rumore: 56.5743 dB
+Varianza: 0.152029
+Qualità della strada: Buona
+
+FILE No 45: 'FILES/B3_(45)_ViaSSTrinita.txt'. I valori:
+Media Rumore: 58.7843 dB
+Varianza: 0.0149009
+Qualità della strada: Buona
+
+FILE No 46: 'FILES/B3_(46)_ViaAdigetto.txt'. I valori:
+Media Rumore: 54.5974 dB
+Varianza: 0.535117
+Qualità della strada: Buona
+
+FILE No 47: 'FILES/C3_(33)_ViaDelMinatore.txt'. I valori:
+Media Rumore: 61.4922 dB
+Varianza: 0.120634
+Qualità della strada: Buona
+
+FILE No 48: 'FILES/C3_(35)_ViaDelLanciere.txt'. I valori:
+Media Rumore: 56.6093 dB
+Varianza: 0.448338
+Qualità della strada: Buona
+
+FILE No 49: 'FILES/C3_(36)_ViaDelloZappatore.txt'. I valori:
+Media Rumore: 61.1748 dB
+Varianza: 0.736941
+Qualità della strada: Buona
+
+FILE No 50: 'FILES/C3_(37)_ViaDelPontiere.txt'. I valori:
+Media Rumore: 54.4484 dB
+Varianza: 0.755771
+Qualità della strada: Buona
+
+FILE No 51: 'FILES/C3_(41)_ViaDelFante.txt'. I valori:
+Media Rumore: 60.7156 dB
+Varianza: 0.420284
+Qualità della strada: Buona
+
