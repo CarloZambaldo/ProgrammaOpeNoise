@@ -14,10 +14,7 @@ Per aprire direttamente il programma:
 	N.B.: se vuoi compilarlo vai su Programma > OpeNoise.cpp oppure Programma > OpeNoise per MAC.cpp
 
 I risultati della compilazione del programma vengono salvati nel file "Risultati.txt"
-
 Il programmma (valido solo per OpeNoise.exe) legge le directories dei file da elaborare dal file "NomiFiles.txt"
-
-Il link (bottone "calcola risultati") che manda dalla presentazione HTML al programma non funziona correttamente (scarica il file exe anzichè avviarlo)
 
 Per eventuali dubbi o problemi contattare carlo.zambaldo@gmail.com
 
@@ -38,6 +35,7 @@ Liceo Girolamo Fracastoro, Verona
 
 ### Eventuali bug (conosciuti) ###
 
+Il link (bottone "calcola risultati") che manda dalla presentazione HTML al programma non funziona correttamente (scarica il file exe anzichè avviarlo)
 
 ### Risoluzione di problemi ###
 
